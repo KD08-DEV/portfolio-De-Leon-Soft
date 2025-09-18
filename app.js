@@ -3,7 +3,7 @@ const path = require('path');
 const nodemailer = require("nodemailer");
 const app = express();
 const port = process.env.PORT| 3000;
-require("dotenv").config({ path: "config.env" });g
+require("dotenv").config({ path: "config.env" });
 //middleware
 app.use(express.static(__dirname));
 app.use(express.json());
