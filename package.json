@@ -13,6 +13,11 @@
     "cors": "^2.8.5",
     "dotenv": "^17.2.2",
     "express": "^4.21.2",
+    "i18next": "^21.10.0",
+    "i18next-express-middleware": "^2.0.0",
+    "i18next-fs-backend": "^1.2.0",
+    "i18next-http-middleware": "^3.8.0",
+    "node-fetch": "^3.3.2",
     "nodemailer": "^7.0.6"
   }
 }
